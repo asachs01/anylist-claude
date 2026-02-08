@@ -1,0 +1,9 @@
+{
+  "name": "anylist-claude",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "AnyList grocery list integration for Claude Code",
+  "dependencies": {
+    "anylist-js": "git+https://github.com/bobby060/anylist-js.git"
+  }
+}
